@@ -22,7 +22,7 @@
 
 ### Usage
 
-Once the FastAPI server is running, you can access the API documentation by navigating to http://localhost:8000/docs in your web browser. From there, you can test the various endpoints and perform CRUD operations on user data.
+Once the FastAPI server is running, you can access the API documentation by navigating to http://localhost:8000/docs or http://localhost:8000/redoc in your web browser. From there, you can test the various endpoints and perform CRUD operations on user data.
 Tests
 
 To run the unit tests, execute the command pytest tests.py. This will run the tests defined in tests.py and provide the results in the terminal.
